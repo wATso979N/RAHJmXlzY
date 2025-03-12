@@ -12,7 +12,6 @@ codecov:
 
 comment:
   require_changes: true
-
 coverage:
   range: 100..100
   status:
