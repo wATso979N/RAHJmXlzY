@@ -47,7 +47,6 @@ The AI programming platform part consists of a deep learning framework and a Pyt
 - [Blocky](https://docs.aidlux.com/)
 - [Service](https://docs.aidlux.com/)
 - [Apkbuild](https://docs.aidlux.com/)
-- [Jupyter notebook](https://docs.aidlux.com/)
 - [X Mode](https://docs.aidlux.com/)
 - [VSCode](https://docs.aidlux.com/)
 - [XFce4](https://docs.aidlux.com/)
