@@ -247,7 +247,6 @@ your solution.
 [//]: # (**Note for JP Morgan**: you'll be told that there would be some coding questions, some video and some "behavioural" questions. The "behavioural" ones are just survey-like questions and not something to be bothered with. Now, for the coding questions. You'll be given &#40;usually&#41; a LeetCode easy and a LeetCode Medium. Immediately after completing each question, you'll be asked to respond on video, how you solved the problem and what you'd do given more time &#40;basically explaining your thought process&#41;. This is the "video" portion of the test - there aren't any "traditional" video questions to answer. )
 
 It should be noted that the above covers only algorithmic-style
-questions; in rare cases you may be given a more specialised form of the
 test (such as a front-end variant). Those kinds of tests are out of
 scope for this guide.
 
