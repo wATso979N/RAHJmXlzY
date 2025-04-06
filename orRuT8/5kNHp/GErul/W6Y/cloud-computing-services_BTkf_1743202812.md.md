@@ -4,7 +4,6 @@ Cloud Shuffle Service(CSS) would not have been possible without the following co
 - Hang Chen
 - Hao Wang
 - Lei Liu
-- Rui Shi
 - Xuewei Lin
 - Xin Gao
 - Zhongjia Wei
